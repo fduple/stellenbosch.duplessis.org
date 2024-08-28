@@ -7,13 +7,6 @@
     "text": "Matthew 11:28-30\n“Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.”"
   },
   {
-    "objectID": "R.html",
-    "href": "R.html",
-    "title": "Regina van Heerden",
-    "section": "",
-    "text": "Regina Barbara van Heerden née Pretorius"
-  },
-  {
     "objectID": "JH.html",
     "href": "JH.html",
     "title": "Jan & Hildegard du Plessis",
@@ -21,10 +14,10 @@
     "text": "Jan Johannes du Plessis\nHildegard Wilhemina du Plessis née Schumann"
   },
   {
-    "objectID": "HOWTO.html",
-    "href": "HOWTO.html",
-    "title": "Stellenbosch",
+    "objectID": "R.html",
+    "href": "R.html",
+    "title": "Regina van Heerden",
     "section": "",
-    "text": "edit _quarto.yml file for website structure and .qmd files for content\nquarto render\ncp -a _site/* ../stellenbosch.duplessis.org/\ncd ../stellenbosch.duplessis.org/\ngit commit -m \"Yadayada etc.\"\ngit push\nIt uses https://github.com/fduple/stellenbosch.duplessis.org as repository and “orca-app” on digitalocean.com for automatic deployment within a minute of updating the repository."
+    "text": "Oorspronklik van Barkly-Oos in die Oos-Kaap, maar baie jare in Stellenbosch gewoon. Om in Stellenbosch te woon met sy eikebome en omring deur die pragtige berge, was vir haar ’n groot vreugde."
   }
 ]
